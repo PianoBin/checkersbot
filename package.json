@@ -1,0 +1,23 @@
+{
+  "name": "checkersbot",
+  "version": "1.0.0",
+  "description": "A FaceBook Messenger Bot that plays Checkers.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/PianoBin/checkersbot.git)"
+  },
+  "keywords": [
+    "checkers",
+    "facebook",
+    "messenger",
+    "game",
+    "learn",
+    "bot"
+  ],
+  "author": "Shoji Moto",
+  "license": "ISC"
+}
